@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+	Lorand Moldovan lorand.moldovan@accesa.eu
 
 # THANKS
 
