@@ -8,10 +8,10 @@ This is example to show different parts of the Git repo and various commands usi
 
 ## Purpose
 
-Sample website with plenty of files for demos
+As stated above, the main purpose is to provide simple examples for Git training demos.
 
 ## Deployment
-
+This a simple web project, deploayment
 ## How to contribute
 
 text
