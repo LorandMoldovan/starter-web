@@ -15,3 +15,7 @@ This a simple web project, deploayment
 ## How to contribute
 
 text
+
+##Copyright
+
+Git training 2022
